@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div width="100%">
-<img src="https://user-images.githubusercontent.com/84452145/190937970-6b535d1a-efe7-4f7e-a4af-1df72ac08492.png" margin="400px">
+<img src="https://user-images.githubusercontent.com/84452145/190937970-6b535d1a-efe7-4f7e-a4af-1df72ac08492.png" margin="0 auto">
 </div>
 
 
