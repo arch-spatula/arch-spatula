@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+요즘은 자바스크립트를 배우고 있습니다.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/84452145/190937970-6b535d1a-efe7-4f7e-a4af-1df72ac08492.png" width="400px">
 </p>
