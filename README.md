@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 todo app을 만들고 react.js를 배우기 시작할 계획입니다.
 
+전문화할 산업 도메인은 고민중입니다.
+
+`storybook.js` 처럼 디자인 시스템을 전문화할 생각 중입니다.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/84452145/190937970-6b535d1a-efe7-4f7e-a4af-1df72ac08492.png" width="400px">
 </p>
