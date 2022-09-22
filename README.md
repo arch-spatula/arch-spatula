@@ -28,3 +28,5 @@ todo app을 만들고 react.js를 배우기 시작할 계획입니다.
 </p>
 
 
+
+![https://i.ytimg.com/vi/Uo3cL4nrGOk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDNifC5_UAfZelzSIf21ZmevJg7QA](https://www.youtube.com/watch?v=Uo3cL4nrGOk)
