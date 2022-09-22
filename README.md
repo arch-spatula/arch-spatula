@@ -27,4 +27,8 @@ todo app을 만들고 react.js를 배우기 시작할 계획입니다.
 <img src="https://user-images.githubusercontent.com/84452145/190937970-6b535d1a-efe7-4f7e-a4af-1df72ac08492.png" width="400px">
 </p>
 
+<p align="center">
+  <div width="400px">
 [![JavaScript meme](https://user-images.githubusercontent.com/84452145/191771735-24cd40b3-c899-44b8-a98b-d1f6247b1b62.jpeg)](https://www.youtube.com/watch?v=Uo3cL4nrGOk)
+  </div>
+</p>
