@@ -8,9 +8,17 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+<div align="center"><h2>공부 중인 Tech Stack</h2></div>
+<div align=center>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=REACT&logoColor=000000"> 
+  <!-- <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=ffffff"> -->
+  <!--   <img src="https://img.shields.io/badge/BIT-73398D?style=for-the-badge&logo=BIT&logoColor=ffffff"> -->
+</div>
+
+
+
 <br>
 
-요즘은 `react.js`를 배우고 있습니다.
 
 전문화할 산업 도메인은 고민중입니다.
 
