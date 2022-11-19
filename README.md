@@ -19,6 +19,13 @@
 
 <br>
 
+<!-- https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arch-spatula&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arch-spatula&theme=tokyonight)](https://github.com/arch-spatula/github-readme-stats)
+
+
+
 
 전문화할 산업 도메인은 고민중입니다.
 
