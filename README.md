@@ -36,9 +36,4 @@
 <img src="https://user-images.githubusercontent.com/84452145/190937970-6b535d1a-efe7-4f7e-a4af-1df72ac08492.png" width="400px">
 </p>
 
-
-# 이런 일상을 꿈꾸고 있습니다.
-
-[![JavaScript meme](https://user-images.githubusercontent.com/84452145/191771735-24cd40b3-c899-44b8-a98b-d1f6247b1b62.jpeg)](https://www.youtube.com/watch?v=Uo3cL4nrGOk)
-
 나중에 개발자 블로그에 밈항목을 따로 만들고 이월할 예정입니다.
