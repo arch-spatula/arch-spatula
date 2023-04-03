@@ -3,14 +3,18 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white"> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=REACT&logoColor=000000"> 
 </div>
 
 <div align="center"><h2>공부 중인 Tech Stack</h2></div>
 <div align=center>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=REACT&logoColor=000000"> 
+  <img
+    src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white"
+  />
   <!-- <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=ffffff"> -->
   <!--   <img src="https://img.shields.io/badge/BIT-73398D?style=for-the-badge&logo=BIT&logoColor=ffffff"> -->
 </div>
