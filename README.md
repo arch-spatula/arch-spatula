@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white"> 
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=REACT&logoColor=000000"> 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=REACT&logoColor=000000">
+  <img src="https://img.shields.io/badge/react_query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"> 
 </div>
 
 <div align="center"><h2>공부 중인 Tech Stack</h2></div>
@@ -15,11 +16,22 @@
   <img
     src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white"
   />
+  <img 
+    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+  />
   <!-- <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=ffffff"> -->
   <!--   <img src="https://img.shields.io/badge/BIT-73398D?style=for-the-badge&logo=BIT&logoColor=ffffff"> -->
 </div>
 
-
+<div align="center"><h2>협업 툴</h2></div>
+<div align=center>
+  <img 
+    src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=000000"
+  />
+  <img 
+    src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=ffffff"
+  />
+</div>
 
 <br>
 
