@@ -15,9 +15,9 @@
   <img
     src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white"
   />
-  <img 
+  <!-- <img 
     src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-  />
+  /> -->
   <!-- <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=ffffff"> -->
   <!--   <img src="https://img.shields.io/badge/BIT-73398D?style=for-the-badge&logo=BIT&logoColor=ffffff"> -->
 </div>
